@@ -34,4 +34,7 @@ Set-CsTeamsMeetingPolicy -LiveCaptionsEnabledType DisabledUserOverride
 Set-CsTeamsMeetingPolicy -LiveCaptionsEnabledType Disabled
 ```
 
+For a list of all the other Teams call based policies you can set - Microsoft has great [documentation][skype-policy-settings] on what you can change these settings. 
+
 [skype-connector]: https://www.microsoft.com/download/details.aspx?id=39366
+[skype-policy-settings]: https://docs.microsoft.com/en-us/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps
