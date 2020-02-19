@@ -26,7 +26,7 @@ Get-CsTeamsMeetingPolicy | ft identity, live*
 ```
 And then finally you can enable this feature by running this last command.
 
-```PowerShell
+```powershell
 # Enable
 Set-CsTeamsMeetingPolicy -LiveCaptionsEnabledType DisabledUserOverride
 
