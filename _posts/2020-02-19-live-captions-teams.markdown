@@ -4,7 +4,7 @@ title:  "Live Captions in Teams"
 date:   2020-02-19 18:00 +0000
 categories: Teams Office365
 ---
-Accessibility should be the default. Teams has many solutions for accessibility, but if you are deaf or hearing impaired you can use the live captions tool to follow along in the call.
+Accessibility should be the default. Teams has many solutions for accessibility, but if you are deaf or hearing impaired you can use the live captions to follow along in calls or meetings.
 
 You can control whether this is turned on via PowerShell and the Office 365 Admin Centre - but below is the method to use PowerShell.
 
@@ -34,7 +34,7 @@ Set-CsTeamsMeetingPolicy -LiveCaptionsEnabledType DisabledUserOverride
 Set-CsTeamsMeetingPolicy -LiveCaptionsEnabledType Disabled
 ```
 
-For a list of all the other Teams call based policies you can set - Microsoft has great [documentation][skype-policy-settings] on what you can change these settings. 
+For a list of all the other Teams call based policies you can set - Microsoft has great [documentation][skype-policy-settings] on what you can change these settings.
 
 [skype-connector]: https://www.microsoft.com/download/details.aspx?id=39366
 [skype-policy-settings]: https://docs.microsoft.com/en-us/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps
