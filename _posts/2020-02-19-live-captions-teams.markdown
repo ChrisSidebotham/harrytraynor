@@ -2,7 +2,7 @@
 layout: post
 title:  "Live Captions in Teams"
 date:   2020-02-19 18:00 +0000
-categories: Teams Office365
+categories: Teams Office365 Tutorial
 ---
 Accessibility should be the default. Teams has many solutions for accessibility, but if you are deaf or hearing impaired you can use the live captions to follow along in calls or meetings.
 
