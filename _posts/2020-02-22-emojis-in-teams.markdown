@@ -8,7 +8,8 @@ I find myself using emojis all the time and work and in my personal communicatio
 
 To insert an emoji using short codes all you need to do is to put the emoji name into some brackets - below are some examples.
 
-| Short Code          | Emoji       |
+{:style="th"}
+| Short Code -        | Emoji       |
 |--------------------	|-------	    |
 | (yes)      	        | 👍     	    |
 | (muscle)   	        | 💪     	    |
