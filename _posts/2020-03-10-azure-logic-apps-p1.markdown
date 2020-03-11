@@ -2,7 +2,7 @@
 layout: post
 title:  "Playing with Azure Logic Apps | Part 1"
 date:   2020-03-10 18:00:00 +0000
-categories: Azure Experiment
+categories: Azure
 ---
 Some of the consultancy work I do involves training. This is normally something that is managed through tools like Eventbrite to keep track of all the attendees.
 
