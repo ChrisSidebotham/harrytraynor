@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Elavator Pitch for Teams"
+title:  "Why Teams"
 date:   2020-02-18 18:00:00 +0000
-categories: Teams Office365
+categories: Teams
 ---
 If you had to ask me how to sell Teams in a matter of seconds, what would I pick as my top features?
 * People can't send you spam emails inside of Teams 🤟.
