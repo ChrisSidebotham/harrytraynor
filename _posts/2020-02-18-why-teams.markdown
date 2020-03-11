@@ -10,3 +10,6 @@ If you had to ask me how to sell Teams in a matter of seconds, what would I pick
 * You can always see when someone is replying to your message with instant feedback.
 * It's easy to use audio, visual and screen share instantly.
 * Communications are automatically categorised into the Teams you work in. No more complex mail rules.
+![Microsoft Teams Chat](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4o4xN?ver=7eb0&q=90&m=6&h=417&w=740&b=%23FFFFFFFF&l=f&o=t&aim=true)
+## Think Modern
+Challenge yourself and your organisation. Do you really need to send an email. You could just say this is another bit of tech. But if you think how little email has changed over a long time, shouldn't we be looking to improve the way we work?
