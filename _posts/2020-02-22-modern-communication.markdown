@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Send Emojis in Teams Quickly!"
+title:  "Modern Communication"
 date:   2020-02-22 18:00:00 +0000
-categories: Teams Office365 Tip
+categories: Teams
 ---
 I find myself using emojis all the time and work and in my personal communications. Love or hate them, I think they add a level of communication that is visual and easier to understand than words. Even down to the simple 👍 to say thanks for something. Now if you know Teams, you have probably already discovered and used them in loads of different ways. However there is a quicker way to add them to messages - **short codes**!
 
