@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Installing Windows Apps"
+title:  "Installing Windows Apps Fast"
 date:   2020-03-12 18:00:00 +0000
 categories: Powershell
 ---
