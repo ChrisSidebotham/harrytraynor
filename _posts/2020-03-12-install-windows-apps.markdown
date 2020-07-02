@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Installing Windows Apps Fast"
+title:  "Installing Windows Apps through a Package Manager"
 date:   2020-03-12 18:00:00 +0000
 categories: Powershell
 ---
