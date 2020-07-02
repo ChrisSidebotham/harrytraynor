@@ -57,6 +57,7 @@ plainwhite:
   name: Harry Traynor
   tagline: Consultant. Developer
   date_format: "%b %-d, %Y"
+  dark_mode: true
 
   social_links:
     twitter: haztraynor
