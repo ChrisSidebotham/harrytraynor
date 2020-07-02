@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Make Word Work for You"
+title:  "New Language Suggestions in Word"
 date:   2020-07-01 18:00:00 +0000
 categories: Office
 ---
