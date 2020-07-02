@@ -18,8 +18,7 @@ plainwhite:
   tagline: Consultant. Developer
   date_format: "%b %-d, %Y"
   dark_mode: true
-  search: true
-
+  
   social_links:
     twitter: haztraynor
     github: harrytraynor
