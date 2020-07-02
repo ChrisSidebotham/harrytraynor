@@ -2,7 +2,7 @@
 layout: post
 title:  "Word Editor Preview"
 date:   2020-07-01 18:00:00 +0000
-categories: Office 365
+categories: Office
 ---
 I remember training sessions around using the online versions of the Office suite being interesting - they did not have enough functionality compared to the desktop versions and certainly put people off using them. Track changes was an extremely popular request, but thankfully has been implemented now! The online versions for me were always powerful and fit into my work style - also with the release of the simplified ribbon it became my go to for quick, distraction free editing. 
 
