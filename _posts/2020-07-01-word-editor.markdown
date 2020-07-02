@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Word Editor Preview"
+title:  "Make Word Work for You"
 date:   2020-07-01 18:00:00 +0000
 categories: Office
 ---
