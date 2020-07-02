@@ -8,7 +8,7 @@ I remember training sessions around using the online versions of the Office suit
 
 There is a new tool in preview now that caught my attention, which is one of those tools you take for granted - the spell checker. It has over the year developed and included more language correction / assist features to help you create the best documents - but with the most recent addition of the **Editor**, Word has just stepped it up a gear. 
 
-![WordEWditor](/assets/word-editor.jpg) 
+![WordEWditor[https://harrytraynor.io/assets/word-editor.jpg]](/assets/word-editor.jpg) 
 
 To access this new tool, make sure you are using the online version, or you have the most up to date desktop app installed. Under the **Home** tab along the top ribbon you should see right at the end, a choice for **Editor**.  
 
