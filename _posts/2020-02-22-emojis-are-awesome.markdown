@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modern Communication"
+title:  "Emojis Are Awesome"
 date:   2020-02-22 18:00:00 +0000
 categories: Teams
 ---
