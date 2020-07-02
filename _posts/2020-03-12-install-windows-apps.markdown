@@ -21,7 +21,9 @@ Now Windows has had many different tools over the years to install applications,
 Installing Chocolatey is as easy as running this bit of Powershell.
 
 ```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
+Set-ExecutionPolicy Bypass -Scope Process -Force;
+[System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072;
+iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
 ```
 
 Once that has finished doing its thing, you should be able to run commands like below to install apps on Windows with speed!
