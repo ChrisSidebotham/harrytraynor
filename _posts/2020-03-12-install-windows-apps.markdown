@@ -2,7 +2,7 @@
 layout: post
 title:  "Installing Windows Apps through a Package Manager"
 date:   2020-03-12 18:00:00 +0000
-categories: Powershell
+categories: Powershell Intune
 ---
 If you are familiar with operating systems like Ubuntu or RHEL, you have probably used something like the following to install an application. 
 
