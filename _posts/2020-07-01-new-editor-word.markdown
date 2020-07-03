@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Language Suggestions in Word"
+title:  "New Editor in Word"
 date:   2020-07-01 18:00:00 +0000
 categories: Office
 ---
