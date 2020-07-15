@@ -10,15 +10,15 @@ If you are familiar with operating systems like Ubuntu or RHEL, you have probabl
 apt install git
 ```
 
-This has many advantages, some being quickly updating and managing all the applcaitions on a system. 
+This has many advantages, some being quickly updating and managing all the applications on a system. 
 
-Now Windows has had many different tools over the years to install applications, whether thats from an end user perspective or orchestrated from an administrator. Apple has had tools like Homebrew and u untill recently I didnt realise Windows has one too.
+Now Windows has had many different tools over the years to install applications, whether thats from an end user perspective or orchestrated from an administrator. Apple has had tools like Homebrew and u until recently I didnt realise Windows has one too.
 
 **Enters Chocolatey**
 
 ![Chocolatey Logo](/assets/chocolatey.png)
 
-Installing Chocolatey is as easy as running this bit of Powershell.
+Installing Chocolatey is as easy as running this bit of PowerShell.
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force;
